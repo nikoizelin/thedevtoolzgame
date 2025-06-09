@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --background: #b4b8ab;
+  --foreground: #171717;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: 'Schoolbell', sans-serif;
+}
+
+.richtig {
+  border-color: #00cc66;
+  box-shadow: 0 0 5px #00cc66;
+}

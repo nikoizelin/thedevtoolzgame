@@ -1,0 +1,32 @@
+thedevtoolgame stages
+
+1. In der Devtool Console suchen
+2. Im Quelltext  suchen
+3. Im Netzwerk nach Bild suchen
+4. Cryptii Bild auflösen
+5. text mit hover andere farbe wie bg color
+6. text mit pos absolute in screen schieben
+7. text mit bg color suchen
+8. anwort mit Display None zu Display block
+9. element nicht innerhalb 100% zoom out
+10. hexcolor api
+11. bildname.jpg ist antwort
+12. link zu GitHub Account -> read.me hat antwort
+13. history of read.me hat antwort
+14. YouTube link ist anwort (min sek) api
+15. dogfoto Hunderasse ist antwort api
+16. Google bild search von img -> unter ähnliche bilder ist antwort
+17. wetter in Stadt -> Luftfeuchtigkeit in % ist antwort api
+18. Chess best move antwort api
+19. wordle antwort api
+20. number api
+21. font von Schrift + font grösse ist antwort
+22. Register date of Domain is antwort ->whois
+23. Koordinaten ist antwort von Location
+24. land von streetview api
+25. chapta api ist anwort
+26. security feature api
+27. flight id Flughafencode ist antwort api
+28. img wo man die augen zusammendrücken muss
+
+
